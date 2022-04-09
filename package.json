@@ -23,7 +23,7 @@
     "express-validator": "^6.4.1",
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.9.13",
     "react-dom": "^16.13.1",
     "react-moment": "^0.9.7",
